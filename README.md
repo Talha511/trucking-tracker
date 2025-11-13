@@ -1,4 +1,4 @@
-# 🚛 trucking-tracker
+# 🚛 Trucking Tracker App (Created By : Talha Shafique)
 Trucking Tracker App
 
 ## 📦 Description Trucking Tracker
