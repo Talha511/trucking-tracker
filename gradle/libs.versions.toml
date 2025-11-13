@@ -1,0 +1,64 @@
+[versions]
+agp = "8.13.0"
+kotlin = "2.2.21"
+coreKtx = "1.17.0"
+junit = "4.13.2"
+junitVersion = "1.3.0"
+espressoCore = "3.7.0"
+lifecycleRuntimeKtx = "2.9.4"
+activityCompose = "1.11.0"
+composeBom = "2025.11.00"
+foundation = "1.9.4"
+material_ver = "1.4.0"
+material_icon_ver = "1.7.8"
+retrofit_two_ver = "3.0.0"
+retrofit_gson_ver = "3.0.0"
+livedata_ver = "1.9.4"
+lifecycle_viewmodel_ver = "2.9.4"
+navigation_ver = "2.9.6"
+coil_ver = "2.7.0"
+places_ver = "5.0.0"
+maps-compose_ver = "6.12.1"
+play-services-maps_ver = "19.2.0"
+kotlinx-coroutines-android_ver = "1.10.2"
+
+
+[libraries]
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+androidx-lifecycle-runtime-ktx = { group = "androidx.lifecycle", name = "lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtx" }
+androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activityCompose" }
+androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "composeBom" }
+androidx-compose-ui = { group = "androidx.compose.ui", name = "ui" }
+androidx-compose-ui-graphics = { group = "androidx.compose.ui", name = "ui-graphics" }
+androidx-compose-ui-tooling = { group = "androidx.compose.ui", name = "ui-tooling" }
+androidx-compose-ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview" }
+androidx-compose-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-manifest" }
+androidx-compose-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
+androidx-compose-material3 = { group = "androidx.compose.material3", name = "material3" }
+androidx-compose-foundation = { group = "androidx.compose.foundation", name = "foundation", version.ref = "foundation" }
+material = { group = "androidx.compose.material3" , name= "material3", version.ref = "material_ver"}
+material-icon = { group = "androidx.compose.material" , name= "material-icons-extended", version.ref = "material_icon_ver"}
+retrofit-two = { group = "com.squareup.retrofit2" , name= "retrofit", version.ref = "retrofit_two_ver"}
+retrofit-gson = { group = "com.squareup.retrofit2" , name= "converter-gson", version.ref = "retrofit_gson_ver"}
+livedata = { group = "androidx.compose.runtime" , name= "runtime-livedata", version.ref = "livedata_ver"}
+lifecycle-viewmodel = { group = "androidx.lifecycle" , name= "lifecycle-viewmodel-compose", version.ref = "lifecycle_viewmodel_ver"}
+navigation = { group = "androidx.navigation" , name= "navigation-compose", version.ref = "navigation_ver"}
+coil = { group = "io.coil-kt" , name= "coil-compose", version.ref = "coil_ver"}
+places = {group = "com.google.android.libraries.places", name = "places", version.ref = "places_ver"}
+maps-compose = {group ="com.google.maps.android", name = "maps-compose", version.ref = "maps-compose_ver"}
+play-services-maps = {group = "com.google.android.gms", name ="play-services-maps", version.ref = "play-services-maps_ver"}
+kotlinx-coroutines-android = {group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-android", version.ref = "kotlinx-coroutines-android_ver"}
+
+
+
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+
+
+
