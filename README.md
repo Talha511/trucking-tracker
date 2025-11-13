@@ -1,14 +1,14 @@
 # 🚛 trucking-tracker
 Trucking Tracker App
 
-## 📦 Description Trucking Tracke
+## 📦 Description Trucking Tracker
 The **Trucking Tracker App** redefines logistics by transforming the complex process of **shipment booking** and tracking into a seamless, user-friendly mobile experience. Designed for customers and dispatchers, the application allows users to quickly **place new transport orders**, select necessary vehicle specifications, and instantly manage quotes based on origin and destination. Once an **order is placed**, users gain access to comprehensive **real-time tracking** and status updates, ensuring complete transparency from initial pickup to final delivery confirmation. This powerful platform consolidates all essential booking, communication, and order history, making it the fastest way to manage your transport needs directly from your mobile device.
 
 ## ⚙️ Technologies Used
 - 💻 **Language:** Kotlin  
 - 🎨 **UI Framework:** Jetpack Compose (Material 3)  
 - 🧩 **Architecture:** MVVM (Model–View–ViewModel)  
-- 🔗 **Networking:** Retrofit + Coroutines  
+- 🔗 **Networking:** Retrofit + Coroutines + API Integration 
 - 🗺️ **Maps:** Google Maps Compose  
 - 🗄️ **Local Database:** Room  
 - 🧠 **Dependency Injection:** Hilt  
