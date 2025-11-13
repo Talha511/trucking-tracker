@@ -7,13 +7,13 @@ The Trucking Tracker App is a comprehensive mobile solution designed to streamli
 
 | | | | |
 | :---: | :---: | :---: | :---: |
-| **1. Dashboard Overview** | **2. Current Trip Details** | **3. Load Assignment Screen** | **4. Electronic Logbook (ELD)** |
-| <img src="app_screenshots/1.jpeg" alt="Dashboard Overview" width="200"> | <img src="app_screenshots/2.jpeg" alt="Current Trip Details" width="200"> | <img src="app_screenshots/3.jpeg" alt="Load Assignment Screen" width="200"> | <img src="app_screenshots/4.jpeg" alt="Electronic Logbook (ELD)" width="200"> |
-| **5. Hours of Service (HOS)** | **6. Pre-Trip Inspection Checklist** | **7. Messaging/Communication** | **8. Fuel/Expense Tracker** |
-| <img src="app_screenshots/5.jpeg" alt="Hours of Service (HOS)" width="200"> | <img src="app_screenshots/6.jpeg" alt="Pre-Trip Inspection Checklist" width="200"> | <img src="app_screenshots/7.jpeg" alt="Messaging/Communication" width="200"> | <img src="app_screenshots/8.jpeg" alt="Fuel/Expense Tracker" width="200"> |
-| **9. Document Scanning/Storage** | **10. Navigation/Route Planner** | **11. Safety/Training Videos** | **12. Vehicle Maintenance Log** |
-| <img src="app_screenshots/9.jpeg" alt="Document Scanning/Storage" width="200"> | <img src="app_screenshots/10.jpeg" alt="Navigation/Route Planner" width="200"> | <img src="app_screenshots/11.jpeg" alt="Safety/Training Videos" width="200"> | <img src="app_screenshots/12.jpeg" alt="Vehicle Maintenance Log" width="200"> |
-| **13. Payroll & Settlement View** | **14. Reporting & Analytics** | **15. Settings & User Profile** | **16. Notification Center** |
-| <img src="app_screenshots/13.jpeg" alt="Payroll & Settlement View" width="200"> | <img src="app_screenshots/14.jpeg" alt="Reporting & Analytics" width="200"> | <img src="app_screenshots/15.jpeg" alt="Settings & User Profile" width="200"> | <img src="app_screenshots/16.jpeg" alt="Notification Center" width="200"> |
-| **17. Map/Location History** | | | |
-| <img src="app_screenshots/17.jpeg" alt="Map/Location History" width="200">
+| **1. Splash Screen** | **2. Login Screen** | **3. Home Screen** | **4. Slide Drawer Screen** |
+| <img src="app_screenshots/1.jpeg" alt="Splash Screen" width="200"> | <img src="app_screenshots/2.jpeg" alt="Login Screen" width="200"> | <img src="app_screenshots/3.jpeg" alt="Home Screen" width="200"> | <img src="app_screenshots/4.jpeg" alt="Slide Drawer Screen" width="200"> |
+| **5. Profile Screen** | **6. Edit Profile Screen** | **7. Change Password Screen** | **8. Logout Dialogue Box** |
+| <img src="app_screenshots/5.jpeg" alt="Profile Screen" width="200"> | <img src="app_screenshots/6.jpeg" alt="Edit Profile Screen" width="200"> | <img src="app_screenshots/7.jpeg" alt="Change Password Screen" width="200"> | <img src="app_screenshots/8.jpeg" alt="Logout Dialogue Box" width="200"> |
+| **9. Vehicle Select Bottom Screen** | **10. Route Map Screen** | **11. Booking Details Screen (1)** | **12. Booking Details Screen (2)** |
+| <img src="app_screenshots/9.jpeg" alt="Vehicle Select Bottom Screen" width="200"> | <img src="app_screenshots/10.jpeg" alt="Route Map Screen" width="200"> | <img src="app_screenshots/11.jpeg" alt="Booking Details Screen (1)" width="200"> | <img src="app_screenshots/12.jpeg" alt="Booking Details Screen (2)" width="200"> |
+| **13. Order Confirmation Screen** | **14. Booking History Screen** | **15. Forgot Password Screen** | **16. Signup Screen (1)** |
+| <img src="app_screenshots/13.jpeg" alt="Order Confirmation Screen" width="200"> | <img src="app_screenshots/14.jpeg" alt="Booking History Screen" width="200"> | <img src="app_screenshots/15.jpeg" alt="Forgot Password Screen" width="200"> | <img src="app_screenshots/16.jpeg" alt="Signup Screen (1)" width="200"> |
+| **17. Signup Screen (2)**
+| <img src="app_screenshots/17.jpeg" alt="Signup Screen (2)" width="200">
